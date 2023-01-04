@@ -41,6 +41,10 @@ Design Patterns (Finished):
 - Factory Design Pattern
 - Strategy Design Pattern
 
+
+
+===============================================================================
+
 Testing (Finished but not recorded on Youtube):
 - Instrumentation Test (User Interface)
 - Unit Testing (Local JVM)
@@ -49,10 +53,11 @@ Testing (Finished but not recorded on Youtube):
 - Manual DI vs Dagger Hilt Framework
 
 
-===============================================================================
 
-Testing is not included in this version yet, to view the test cases, check the other repo, which I essentially made for me:
+Testing is not included in this version yet, to view the test cases, check the other repo, which I essentially made for myself:
+
 https://github.com/devMohaned/SerialDecoderYT
+
 SerialDecoderYT repo is the same as this one, except for 2 aspects:
 - Testing (I did not record Testing on youtube yet, so there's no testing in this repo)
 - Feature Decoding 
@@ -61,7 +66,7 @@ to improve the scalability of the app to large scale opportunities, other than t
 
 
 Feel free to check the source code for the testing here:
-https://github.com/devMohaned/SerialDecoderYT
+https://github.com/devMohaned/SerialDecoderYT/tree/Finished-App/app/src
 
 ====================================================================
 
