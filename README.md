@@ -49,8 +49,7 @@ Testing (Finished but not recorded on Youtube):
 - Manual DI vs Dagger Hilt Framework
 
 
-==============================================================================================================================
-=============================================================================================
+===============================================================================
 
 Testing is not included in this version yet, to view the test cases, check the other repo, which I essentially made for me:
 https://github.com/devMohaned/SerialDecoderYT
@@ -64,8 +63,8 @@ to improve the scalability of the app to large scale opportunities, other than t
 Feel free to check the source code for the testing here:
 https://github.com/devMohaned/SerialDecoderYT
 
-=============================================================================================================================
-==============================================================================================
+====================================================================
+
 
 Polishing (Work In Progress):
 - Made App Icon (Finished)
