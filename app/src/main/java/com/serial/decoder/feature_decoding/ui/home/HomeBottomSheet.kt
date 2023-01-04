@@ -204,7 +204,6 @@ fun CameraContent(
                 val camera = it.bindToLifecycle(
                     lifeCycleOwner, cameraSelector, previewUseCase, imageAnalysisUseCase
                 )
-                camera.cameraControl.enableTorch(true) // DEBUGGING
             }
 
 
