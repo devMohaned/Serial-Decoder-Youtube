@@ -105,6 +105,11 @@ https://user-images.githubusercontent.com/60556571/210607755-a9255ffc-2614-440e-
 
 
 
+Worth Mentions:
+- [Disable Camera when decomposition occur](https://stackoverflow.com/questions/74591909/how-to-stop-camera-from-working-when-it-no-longer-visible-in-the-compisition/74605151#74605151)
+
+- [Disable Dragging PeekBar](https://stackoverflow.com/questions/74578873/how-to-allow-drag-only-on-part-of-the-sheetpeek-of-a-bottomcontent-in-bottomshee)
+
 If you like this repo, feel free to star it, subcribe to the channel, do charity, just do anything positive :D
 
 Thanks and good luck to all of you!
