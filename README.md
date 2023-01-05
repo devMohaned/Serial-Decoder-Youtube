@@ -87,6 +87,12 @@ How it looks on Tablet?
 https://user-images.githubusercontent.com/60556571/210603791-346998dc-0f6d-43ff-88aa-d5a7af5edb14.mp4
 
 
+How it look on Localized Language (Another Language other than English)?
+
+
+https://user-images.githubusercontent.com/60556571/210882725-9e714cb5-13dc-47eb-8304-c8f85cf5afc8.mp4
+
+
 
 Before Open Closed Principle of SOLID:
 
