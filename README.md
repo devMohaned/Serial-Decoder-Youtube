@@ -3,7 +3,7 @@ This is the sourcecode for a Youtube playlist of native android app called Seria
 
 Playstore: https://play.google.com/store/apps/details?id=com.serial.decoder
 
-Youtube: https://www.youtube.com/playlist?list=PL_97vI-C8EX-vzanEBv-8opNaW-HXEdKk
+Youtube: https://www.youtube.com/watch?v=tIPyQL_rcbo&list=PL_97vI-C8EX9eeqDpyNwmIPU7SbF-WB4g
 
 Figma: https://www.figma.com/file/BH7pkGmfBIkYUyV5F0mr8q/Serial-Decoder?node-id=49%3A2&t=94Jrykv7hLwY20yO-0
 
